@@ -1,0 +1,4 @@
+/home/maxwell/Code/Interstella/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/maxwell/Code/Interstella/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maxwell/Code/Interstella/cmake-build-debug/CMakeFiles/PartA.dir
+/home/maxwell/Code/Interstella/cmake-build-debug/CMakeFiles/PartB.dir

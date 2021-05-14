@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PartB"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/maxwell/Code/Interstella/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/maxwell/Code/Interstella/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/maxwell/Code/Interstella/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PartA">
+				<Option output="/home/maxwell/Code/Interstella/cmake-build-debug/PartA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/maxwell/Code/Interstella/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 PartA"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PartA/fast">
+				<Option output="/home/maxwell/Code/Interstella/cmake-build-debug/PartA" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/maxwell/Code/Interstella/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 PartA/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PartB">
+				<Option output="/home/maxwell/Code/Interstella/cmake-build-debug/PartB" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/maxwell/Code/Interstella/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 PartB"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PartB/fast">
+				<Option output="/home/maxwell/Code/Interstella/cmake-build-debug/PartB" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/maxwell/Code/Interstella/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/x86_64-pc-linux-gnu"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/../../../../include/c++/10.2.0/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 PartB/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/Code/Interstella/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/maxwell/Code/Interstella/PartA.cpp">
+			<Option target="PartA"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Arc.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Arc.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Car.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Car.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Circle.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Circle.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/ColoredFig.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/ColoredFig.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Ellipse.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Ellipse.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Figure.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Figure.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Game.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Game.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Group.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Group.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Line.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Line.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/ParkingLot.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/ParkingLot.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Polygon.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Polygon.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Rectangle.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Rectangle.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Rocket.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Rocket.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Semi.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Semi.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Teleport.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Teleport.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Triangle.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Triangle.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/UFO.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/UFO.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/Vec.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/draw.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/cl-p3/draw.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/classes.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/classes.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/general.h">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/main.cpp">
+			<Option target="PartB"/>
+		</Unit>
+		<Unit filename="/home/maxwell/Code/Interstella/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

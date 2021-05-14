@@ -1,0 +1,110 @@
+# depslib dependency file v1.0
+1574939549 source:/home/maxwell/CLionProjects/P3/cl-p3/Car.cpp
+	"Car.h"
+
+1574941032 /home/maxwell/CLionProjects/P3/cl-p3/Car.h
+	"Group.h"
+
+1574940121 /home/maxwell/CLionProjects/P3/general.h
+	<iostream>
+	<vector>
+	<GL/glut.h>
+	<ctime>
+	<cmath>
+	"classes.h"
+
+1574940228 /home/maxwell/CLionProjects/P3/cl-p3/Vec.h
+	"../classes.h"
+
+1574940768 /home/maxwell/CLionProjects/P3/classes.h
+	<cmath>
+	"cl-p3/Vec.h"
+	"cl-p3/Figure.h"
+	"cl-p3/ColoredFig.h"
+	"cl-p3/Triangle.h"
+	"cl-p3/Rectangle.h"
+	"cl-p3/Circle.h"
+	"cl-p3/Semi.h"
+	"cl-p3/Polygon.h"
+	"cl-p3/Group.h"
+	"cl-p3/Car.h"
+	"cl-p3/UFO.h"
+	"cl-p3/Rocket.h"
+	"cl-p3/Teleport.h"
+
+1574940768 /home/maxwell/CLionProjects/P3/cl-p3/Figure.h
+	"Vec.h"
+
+1574940520 /home/maxwell/CLionProjects/P3/cl-p3/ColoredFigure.h
+	"../classes.h"
+
+1574940647 /home/maxwell/CLionProjects/P3/cl-p3/Triangle.h
+	"ColoredFig.h"
+
+1574940803 /home/maxwell/CLionProjects/P3/cl-p3/Rectangle.h
+	"ColoredFig.h"
+
+1574940839 /home/maxwell/CLionProjects/P3/cl-p3/Circle.h
+	"ColoredFig.h"
+
+1574940857 /home/maxwell/CLionProjects/P3/cl-p3/Semi.h
+	"ColoredFig.h"
+
+1574940900 /home/maxwell/CLionProjects/P3/cl-p3/Polygon.h
+	"ColoredFig.h"
+
+1574940965 /home/maxwell/CLionProjects/P3/cl-p3/Group.h
+	<vector>
+	"Figure.h"
+	"ColoredFig.h"
+
+1574934217 /home/maxwell/CLionProjects/P3/cl-p3/UFO.h
+
+1574934157 /home/maxwell/CLionProjects/P3/cl-p3/Rocket.h
+
+1574935497 /home/maxwell/CLionProjects/P3/cl-p3/Teleport.h
+
+1574940883 source:/home/maxwell/CLionProjects/P3/cl-p3/Circle.cpp
+	"Circle.h"
+
+1574933768 source:/home/maxwell/CLionProjects/P3/cl-p3/ColoredFigure.cpp
+	"ColoredFigure.h"
+
+1574933566 source:/home/maxwell/CLionProjects/P3/cl-p3/Figure.cpp
+	"Figure.h"
+
+1574940708 /home/maxwell/CLionProjects/P3/cl-p3/ColoredFig.h
+	"Figure.h"
+
+1574935308 source:/home/maxwell/CLionProjects/P3/cl-p3/Group.cpp
+	"Group.h"
+
+1574940921 source:/home/maxwell/CLionProjects/P3/cl-p3/Polygon.cpp
+	"Polygon.h"
+
+1574940815 source:/home/maxwell/CLionProjects/P3/cl-p3/Rectangle.cpp
+	"Rectangle.h"
+
+1574934157 source:/home/maxwell/CLionProjects/P3/cl-p3/Rocket.cpp
+	"Rocket.h"
+
+1574941897 source:/home/maxwell/CLionProjects/P3/cl-p3/Semi.cpp
+	"Semi.h"
+
+1574940789 source:/home/maxwell/CLionProjects/P3/cl-p3/Triangle.cpp
+	"Triangle.h"
+
+1574934217 source:/home/maxwell/CLionProjects/P3/cl-p3/UFO.cpp
+	"UFO.h"
+
+1574941103 source:/home/maxwell/CLionProjects/P3/classes.cpp
+	"classes.h"
+	"general.h"
+	"cl-p3/Vec.h"
+
+1574941084 source:/home/maxwell/CLionProjects/P3/main.cpp
+	"general.h"
+	"classes.h"
+	"cl-p3/Vec.h"
+	"cl-p3/Car.h"
+

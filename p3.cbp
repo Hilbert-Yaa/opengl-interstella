@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="p3" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/p3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/p3" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="cl-p3/Car.cpp" />
+		<Unit filename="cl-p3/Car.h" />
+		<Unit filename="cl-p3/Circle.cpp" />
+		<Unit filename="cl-p3/Circle.h" />
+		<Unit filename="cl-p3/ColoredFigure.cpp" />
+		<Unit filename="cl-p3/Figure.cpp" />
+		<Unit filename="cl-p3/Figure.h" />
+		<Unit filename="cl-p3/Group.cpp" />
+		<Unit filename="cl-p3/Group.h" />
+		<Unit filename="cl-p3/Polygon.cpp" />
+		<Unit filename="cl-p3/Polygon.h" />
+		<Unit filename="cl-p3/Rectangle.cpp" />
+		<Unit filename="cl-p3/Rectangle.h" />
+		<Unit filename="cl-p3/Rocket.cpp" />
+		<Unit filename="cl-p3/Rocket.h" />
+		<Unit filename="cl-p3/Semi.cpp" />
+		<Unit filename="cl-p3/Semi.h" />
+		<Unit filename="cl-p3/Triangle.cpp" />
+		<Unit filename="cl-p3/Triangle.h" />
+		<Unit filename="cl-p3/UFO.cpp" />
+		<Unit filename="cl-p3/UFO.h" />
+		<Unit filename="cl-p3/Vec.h" />
+		<Unit filename="classes.cpp" />
+		<Unit filename="classes.h" />
+		<Unit filename="general.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="e3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/maxwell/e3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/maxwell/e3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e3">
+				<Option output="/home/maxwell/e3/cmake-build-debug/e3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/maxwell/e3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 e3"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="e3/fast">
+				<Option output="/home/maxwell/e3/cmake-build-debug/e3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/maxwell/e3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 e3/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/maxwell/e3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/maxwell/e3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/maxwell/e3/cl-p3/Arc.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Arc.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Car.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Car.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Circle.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Circle.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/ColoredFig.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/ColoredFig.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Ellipse.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Ellipse.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Figure.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Figure.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Group.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Group.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Line.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Line.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/ParkingLot.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/ParkingLot.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Polygon.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Polygon.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Rectangle.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Rectangle.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Rocket.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Rocket.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Semi.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Semi.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Teleport.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Teleport.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Triangle.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Triangle.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/UFO.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/UFO.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/Vec.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/draw.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/cl-p3/draw.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/classes.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/classes.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/general.h">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/main.cpp">
+			<Option target="e3"/>
+		</Unit>
+		<Unit filename="/home/maxwell/e3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
