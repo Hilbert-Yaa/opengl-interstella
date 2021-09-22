@@ -1,2 +1,2 @@
 # Inter-Stella
-Simple animation project powered by OpenGL in VG101 2019FA. Have fun.
+An animation project written with c++/opengl. Have fun.
